@@ -36,28 +36,28 @@ const Loading = () => {
       >
         <div className="text-center flex justify-center space-x-6 capitalize text-4xl lg:text-6xl leading-[60px] font-bold">
           <p className="pt-5">WE ORGANIZE A</p>
-          <AnimatedImage src="https://source.unsplash.com/random/800x600?sig=1" />{" "}
+          <AnimatedImage src="https://picsum.photos/800/600?random=1" />{" "}
         </div>
         <div className="capitalize items-center flex justify-center space-x-6 text-4xl lg:text-6xl leading-[60px] font-bold">
           <p className="pt-5"> CONNECTION </p>
-          <AnimatedImage2 src="https://source.unsplash.com/random/800x600?sig=1" />{" "}
+          <AnimatedImage2 src="https://picsum.photos/800/600?random=2" />{" "}
         </div>
         <div className="capitalize items-center flex justify-center space-x-6 text-4xl lg:text-6xl leading-[60px] font-bold">
-          <AnimatedImage src="https://source.unsplash.com/random/800x600?sig=2" />{" "}
+          <AnimatedImage src="https://picsum.photos/800/600?random=3" />{" "}
           <p className="pt-5"> BETWEEN</p>
-          <AnimatedImage2 src="https://source.unsplash.com/random/800x600?sig=3" />
+          <AnimatedImage2 src="https://picsum.photos/800/600?random=4" />
           <p className="whitespace-nowrap pt-5">MUSIC </p>{" "}
         </div>
         <div className="capitalize items-center flex justify-center space-x-6 text-4xl lg:text-6xl leading-[60px] font-bold">
           <p className="pt-5"> ARTIST </p>
-          <AnimatedImage src="https://source.unsplash.com/random/800x600?sig=4" />{" "}
+          <AnimatedImage src="https://picsum.photos/800/600?random=5" />{" "}
           <p className="pt-5"> CULTURE </p>
-          <AnimatedImage2 src="https://source.unsplash.com/random/800x600?sig=5" />
+          <AnimatedImage2 src="https://picsum.photos/800/600?random=6" />
         </div>
         <div className="capitalize items-center flex justify-center space-x-6 text-4xl lg:text-6xl leading-[60px] font-bold">
-          <AnimatedImage src="https://source.unsplash.com/random/800x600?sig=6" />{" "}
+          <AnimatedImage src="https://picsum.photos/800/600?random=7" />{" "}
           <p className="pt-5"> ART </p>
-          <AnimatedImage2 src="https://source.unsplash.com/random/800x600?sig=7" />
+          <AnimatedImage2 src="https://picsum.photos/800/600?random=8" />
           <p className="pt-5"> &</p>
           <p className="pt-5"> COLLECTIONS</p>
         </div>

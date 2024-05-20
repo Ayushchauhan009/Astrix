@@ -4,19 +4,19 @@ import CollectibleCard from "./CollectibleCards";
 
 const collectibles = [
   {
-    image: "https://source.unsplash.com/random/200x200?sig=1",
+    image: "https://picsum.photos/200/200?random=23",
     year: "2024",
     author: "Pablo",
     title: "Collectible Name",
   },
   {
-    image: "https://source.unsplash.com/random/200x200?sig=2",
+    image: "https://picsum.photos/200/200?random=22",
     year: "2024",
     author: "Pablo",
     title: "Collectible Name",
   },
   {
-    image: "https://source.unsplash.com/random/200x200?sig=3",
+    image: "https://picsum.photos/200/200?random=21",
     year: "2024",
     author: "Pablo",
     title: "Collectible Name",
@@ -38,27 +38,27 @@ const CollectionsComponent = () => {
       <div className="lg:flex  items-center">
         <div className="flex mb-3 -space-x-4">
           <img
-            src="https://source.unsplash.com/random/40x40?sig=5"
+            src="https://picsum.photos/40/40?random=19"
             alt="Interested People"
             className="w-12 h-12 border-2 border-white rounded-full "
           />
           <img
-            src="https://source.unsplash.com/random/40x40?sig=6"
+            src="https://picsum.photos/40/40?random=18"
             alt="Interested People"
             className="w-12 h-12 border-2 border-white rounded-full object-cover "
           />
           <img
-            src="https://source.unsplash.com/random/40x40?sig=7"
+            src="https://picsum.photos/40/40?random=17"
             alt="Interested People"
             className="w-12 h-12 border-2 border-white rounded-full object-cover "
           />
           <img
-            src="https://source.unsplash.com/random/40x40?sig=8"
+            src="https://picsum.photos/40/40?random=16"
             alt="Interested People"
             className="w-12 h-12 border-2 border-white rounded-full object-cover "
           />
           <img
-            src="https://source.unsplash.com/random/40x40?sig=9"
+            src="https://picsum.photos/40/40?random=15"
             alt="Interested People"
             className="w-12 h-12 border-2 border-white rounded-full object-cover "
           />

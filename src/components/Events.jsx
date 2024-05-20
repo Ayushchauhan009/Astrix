@@ -39,21 +39,21 @@ const EventsComponent = () => {
       <div className="grid grid-cols-3 mt-10 gap-2 lg:gap-8">
         <div className="collectible-card w-[90px] lg:w-[150px]  rounded-lg">
           <img
-            src="https://source.unsplash.com/random/800x600?sig=11"
+            src="https://picsum.photos/800/600?random=12"
             alt="artist 1"
             className="w-[200px] h-[100px] lg:h-[150px] object-cover rounded-xl"
           />
         </div>
         <div className="collectible-card  w-[90px] lg:w-[150px]  rounded-lg">
           <img
-            src="https://source.unsplash.com/random/800x600?sig=12"
+            src="https://picsum.photos/800/600?random=13"
             alt="artist 2"
             className="w-[200px] h-[100px] lg:h-[150px] object-cover scale-125  rounded-xl"
           />
         </div>
         <div className="collectible-card w-[90px] lg:w-[150px] rounded-lg">
           <img
-            src="https://source.unsplash.com/random/800x600?sig=13"
+            src="https://picsum.photos/800/600?random=14"
             alt="artist 3"
             className="w-[200px] h-[100px] lg:h-[150px] object-cover  rounded-xl"
           />
