@@ -62,7 +62,7 @@ const Loading = () => {
           <p className="pt-5"> COLLECTIONS</p>
         </div>
         <button className="mt-10 lg:mt-20 font-normal text-[#1a1a1a] text-xl">
-          Click to Enter*
+          Click Anywhere*
         </button>
       </div>
       {!isLoading && (
